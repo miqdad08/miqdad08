@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://github.com/Reyhan05" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Reyhan05&show_icons=true&bg_color=FFFF&text_color=000&border_color=444" height="165">
+  <a href="https://github.com/miqdad08" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=miqdad08&show_icons=true&bg_color=FFFF&text_color=000&border_color=444" height="165">
   </a>
 
   <a href="https://github.com/Reyhan05" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyhan05&layout=compact&bg_color=FFF&text_color=000&border_color=444&hide=objective-c"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqdad08&layout=compact&bg_color=FFF&text_color=000&border_color=444&hide=objective-c"  height="165">
   </a>
   <br>
 </p>
