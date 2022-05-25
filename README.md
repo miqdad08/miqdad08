@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <details>	
-<!-- <details>	
+<<details>	
   <summary><b>📊 This week I spent my time on</b></summary>
 <p align="center">
   <a href="https://github.com/miqdad08" target="_blank">
