@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <details>	
-<<details>	
-  <summary><b>📊 This week I spent my time on</b></summary>
+  <summary><b>⚡ Github Stats</b></summary>
 <p align="center">
   <a href="https://github.com/miqdad08" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=miqdad08&show_icons=true&bg_color=FFFF&text_color=000&border_color=444" height="165">
@@ -30,5 +29,4 @@ Here are some ideas to get you started:
 </p>
 
 </details>
-</details> -->
-****
+
